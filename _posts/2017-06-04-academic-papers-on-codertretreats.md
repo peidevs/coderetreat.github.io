@@ -3,7 +3,9 @@ layout: post
 author: unknown
 authorname: David Parsons
 title: Academic papers on Coderetreats
-preview: In case they are of interest to anyone, we have published some academic / professional papers around Coderetreats.
+preview: In case they are of interest to anyone, we have published some academic /
+  professional papers around Coderetreats.
+date: 2017-06-04 00:00:00 +0000
 ---
 
 
