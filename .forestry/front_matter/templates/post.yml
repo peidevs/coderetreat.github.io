@@ -1,0 +1,41 @@
+---
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+  config:
+    required: true
+- name: authorname
+  label: Author
+  type: text
+  hidden: false
+  default: ''
+  description: The full name of the post's author.
+  config:
+    required: true
+- name: author
+  label: Author Github Username
+  type: text
+  hidden: false
+  default: ''
+  description: The Github username of the post's author.
+  config:
+    required: true
+- name: date
+  label: Publication Date
+  type: datetime
+  hidden: false
+  default: ''
+- type: image_gallery
+  name: preview
+  label: Preview
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+  config:
+    required: true
