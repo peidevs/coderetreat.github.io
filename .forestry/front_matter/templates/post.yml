@@ -24,7 +24,7 @@ fields:
   default: ''
   description: The full name of the post's author.
   config:
-    required: true
+    required: false
 - name: author
   label: Author Github Username
   type: text
