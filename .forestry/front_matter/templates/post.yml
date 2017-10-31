@@ -10,6 +10,13 @@ fields:
   default: ''
   config:
     required: true
+- type: textarea
+  name: preview
+  label: Preview
+  description: A short preview of the for listing posts.
+  config:
+    wysiwyg: true
+    required: true
 - name: authorname
   label: Author
   type: text
@@ -31,9 +38,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
-- type: image_gallery
-  name: preview
-  label: Preview
 - name: layout
   label: Layout
   type: text
