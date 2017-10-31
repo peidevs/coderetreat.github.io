@@ -1,4 +1,6 @@
 ---
+pages:
+- _posts/2017-07-17-deprecating-the-ning-social-network.md
 hide_body: false
 fields:
 - name: title

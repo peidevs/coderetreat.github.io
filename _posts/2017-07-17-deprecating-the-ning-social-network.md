@@ -3,7 +3,9 @@ layout: post
 author: rradczewski
 authorname: Raimo Radczewski
 title: Deprecating the coderetreat NING network
-preview: We decided to deprecate the social network at coderetreat.org. Here's why.
+preview:
+- We decided to deprecate the social network at coderetreat.org. Here's why.
+date: 2017-07-17 00:00:00 +0000
 ---
 
 Earlier this year we deactivated new registrations and most of the features of the NING-powered social network on [coderetreat.org](http://coderetreat.org). We decided to deprecate the network as we were not able to maintain and evolve it in the last few years.  
